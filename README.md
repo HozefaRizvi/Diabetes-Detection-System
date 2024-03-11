@@ -28,19 +28,8 @@ DiabEaseDetect is a web application developed for diabetes prediction using vari
   - Random Forest (RF)
 - **Primary Algorithm:** Support Vector Machine (SVM)
 
-## Tech Stack
-<p align="center">
-  <img src="link_to_your_logo.png" alt="DiabEaseDetect Logo" width="200">
-</p>
-<p align="center">
-  <img src="link_to_your_logo.png" alt="DiabEaseDetect Logo" width="200">
-</p>
-<p align="center">
-  <img src="link_to_your_logo.png" alt="DiabEaseDetect Logo" width="200">
-</p>
-<p align="center">
-  <img src="link_to_your_logo.png" alt="DiabEaseDetect Logo" width="200">
-</p>
+
+
 ## Getting Started
 
 1. **Clone the repository:**
